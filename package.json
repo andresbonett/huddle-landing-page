@@ -1,0 +1,20 @@
+{
+  "name": "huddle-landing-page-with-single-introductory-section-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresbonett/huddle-landing-page.git"
+  },
+  "keywords": [],
+  "author": "Andres Bonett <andresbonettm@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andresbonett/huddle-landing-page/issues"
+  },
+  "homepage": "https://andresbonett.github.io/huddle-landing-page/"
+}
